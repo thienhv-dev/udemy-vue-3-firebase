@@ -11,4 +11,5 @@ Setting NPM install
 
 ```shell
 npm install -g @vue/cli
+vue create [folder name]
 ```
