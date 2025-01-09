@@ -13,3 +13,10 @@ Setting NPM install
 npm install -g @vue/cli
 vue create [folder name]
 ```
+
+### Custom Json Server
+```shell
+cd thienhv-jobs
+npm install json-server
+json-server --watch data/db.json
+```
