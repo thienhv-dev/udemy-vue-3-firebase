@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project 1",
+      "details": "Details of Project 1 test",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Project 2",
+      "details": "Details of Project 2",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Project 3",
+      "details": "Details of Project 3",
+      "completed": true
+    }
+  ]
+}
