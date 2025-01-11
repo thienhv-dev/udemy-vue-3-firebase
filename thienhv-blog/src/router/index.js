@@ -11,13 +11,13 @@ const routes = [
     },
     {
         path: '/posts/:id',
-        name: 'Details',
+        name: 'details',
         component: Details,
         props: true
     },
     {
         path: '/create',
-        name: 'Create',
+        name: 'create',
         component: Create
     }
 ]
